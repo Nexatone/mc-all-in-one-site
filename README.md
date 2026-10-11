@@ -6,6 +6,8 @@ This public repository contains the generated feature page for the All In One Mi
 
 Each feature tile displays a green Enabled or amber Disabled badge for availability in the mod. These badges do not represent a player's personal settings. The private source catalogue owns each feature's explicit availability flag.
 
+Double Creeper Drops is disabled. Its tile remains visible and explains that creepers use normal gunpowder, Looting, music-disc, and experience behavior.
+
 The add-on source lives in the private [Nexatone/mc-all-in-one](https://github.com/Nexatone/mc-all-in-one) repository. This website is a player feature overview; installation and maintainer details are kept separately. This repository contains the website and its supporting artwork.
 
 ## Updating the website
