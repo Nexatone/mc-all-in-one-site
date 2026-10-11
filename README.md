@@ -4,6 +4,8 @@
 
 This public repository contains the generated feature page for the All In One Minecraft Bedrock add-on. Browse all 27 features with short overviews, expandable player descriptions, crafting diagrams, equipment artwork, and grave and skin previews. Search and category filters help you find what interests you.
 
+Each feature tile displays a green Enabled or amber Disabled badge for availability in the mod. These badges do not represent a player's personal settings. The private source catalogue owns each feature's explicit availability flag.
+
 The add-on source lives in the private [Nexatone/mc-all-in-one](https://github.com/Nexatone/mc-all-in-one) repository. This website is a player feature overview; installation and maintainer details are kept separately. This repository contains the website and its supporting artwork.
 
 ## Updating the website
