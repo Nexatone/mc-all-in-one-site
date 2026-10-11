@@ -4,6 +4,8 @@
 
 This public repository contains the generated feature page for the All In One Minecraft Bedrock add-on. Browse all 27 features with short overviews, expandable player descriptions, crafting diagrams, equipment artwork, and grave and skin previews. Search and category filters help you find what interests you.
 
+The minimal dark layout uses smoked-glass surfaces and rounded controls. Phone screens use a single feature column and scrollable category chips. Native expandable cards work without JavaScript, and keyboard focus, reduced-motion preferences, and an opaque glass fallback remain supported.
+
 Each feature tile displays a green Enabled or amber Disabled badge for availability in the mod. These badges do not represent a player's personal settings. The private source catalogue owns each feature's explicit availability flag.
 
 Double Creeper Drops is disabled. Its tile remains visible and explains that creepers use normal gunpowder, Looting, music-disc, and experience behavior.
